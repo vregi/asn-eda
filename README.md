@@ -1,4 +1,4 @@
-## Explanatory Data Analysis of Aviation Accidents from Aviation Safety Network
+## Exploratory Data Analysis of Aviation Accidents from Aviation Safety Network
 
 ### Objective
 This project aims to conduct an exploratory data analysis (EDA) of aviation accident records from the Aviation Safety Network (ASN) to uncover trends, patterns, and potential contributing factors to aviation incidents between years of 1995 and 2024.
